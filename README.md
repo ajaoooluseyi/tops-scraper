@@ -68,6 +68,7 @@ python scrape_tops.py
 ---
 
 ## **Sample output**
+```json
 {
     "OTOP": [
         {
@@ -117,3 +118,4 @@ python scrape_tops.py
         },
    ]
 }
+```
