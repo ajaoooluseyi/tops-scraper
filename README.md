@@ -36,6 +36,7 @@ To run this scraper, the following dependencies are needed:
 - Beautifulsoup4
 - Selenium
 
+---
 
 ## **How to run**
 In the projects' working directory execute the below command to create a virtual environment.
@@ -64,6 +65,7 @@ Run scraper
 ```sh
 python scrape_tops.py
 ```
+---
 
 ## **Sample output**
 {
